@@ -4,6 +4,7 @@ title:The Captain's Trashlist
 //  280464955   Firmly Planted
 //  957782887   Snapshot Sights
 //  4082225868  Swashbuckler
+//  1890422124  Tap the Trigger
 //  1546637391  Vorpal Weapon
 
 
@@ -21,6 +22,10 @@ dimwishlist:item=-9&perks=1890422124#notes:Fusion Rifles do not benefit from Tap
 //notes:PvE perk does not synergize with PvP perk.
 dimwishlist:item=-6&perks=280464955#notes:Hand Cannons do not meaningfully benefit from the Firmly Planted perk.
 dimwishlist:item=-6&perks=957782887,4082225868
+
+// SMGS
+//notes:PvE perk does not synergize with PvP perk.
+dimwishlist:item=-55&perks=1890422124#notes:Tap the Trigger does not synergize with typical SMG usage.
 
 // SNIPERS
 //notes:PvE perk does not synergize with PvP perk.
