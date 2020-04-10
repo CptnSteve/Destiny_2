@@ -1,10 +1,14 @@
 title:The Captain's Trashlist
 
+//  PERK REFERENCE
+//  957782887 SS Sights
+//  4082225868 Swashbuckler
+
+
 // ALL GUNS
 //note:PvE perk does not synergize with PvP perk.
 dimwishlist:item=-1&perks=2869569095#notes:Field Prep is a junk perk.
 dimwishlist:item=-1&perks=1774574192#notes:Osmosis is exceedingly situational.
-
 
 
 // FUSION RIFLES
@@ -12,6 +16,8 @@ dimwishlist:item=-1&perks=1774574192#notes:Osmosis is exceedingly situational.
 dimwishlist:item=-9&perks=1890422124#notes:Fusion Rifles do not benefit from Tap the Trigger.
 
 // HAND CANNONS
+//note:PvE perk does not synergize with PvP perk.
+dimwishlist:item=-6&perks=957782887,4082225868
 
 // SNIPERS
 //note:PvE perk does not synergize with PvP perk.
