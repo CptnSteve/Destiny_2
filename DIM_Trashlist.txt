@@ -1,8 +1,9 @@
 title:The Captain's Trashlist
 
 //  PERK REFERENCE
-//  957782887 SS Sights
-//  4082225868 Swashbuckler
+//  957782887   Snapshot Sights
+//  4082225868  Swashbuckler
+//  1546637391  Vorpal Weapon
 
 
 // ALL GUNS
