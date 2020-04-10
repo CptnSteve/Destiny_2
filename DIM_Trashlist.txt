@@ -1,4 +1,7 @@
 title:The Captain's Trashlist
 
-dimwishlist:item=-10&perks=1866048759#notes:Snipers should not have hip-fire-grip.
+// ALL GUNS
+dimwishlist:item=-69420&perks=2869569095#notes:Field Prep is a junk perk.
 
+// SNIPERS
+dimwishlist:item=-10&perks=1866048759#notes:Snipers should not have hip-fire-grip.
