@@ -1,12 +1,19 @@
 title:The Captain's Trashlist
 
 // ALL GUNS
+//note:PvE perk does not synergize with PvP perk.
 dimwishlist:item=-1&perks=2869569095#notes:Field Prep is a junk perk.
 dimwishlist:item=-1&perks=1774574192#notes:Osmosis is a junk perk.
 
-// SNIPERS
-dimwishlist:item=4261726982&perks=1866048759#notes:Rapid-fire snipers are good.
-dimwishlist:item=-10&perks=1866048759#notes:Snipers should not have hip-fire-grip.
+
 
 // FUSION RIFLES
+//note:PvE perk does not synergize with PvP perk.
 dimwishlist:item=-9&perks=1890422124#notes:Fusion Rifles should not have Tap the Trigger.
+
+// HAND CANNONS
+
+// SNIPERS
+//note:PvE perk does not synergize with PvP perk.
+dimwishlist:item=4261726982&perks=1866048759#notes:Rapid-fire snipers are good.
+dimwishlist:item=-10&perks=1866048759#notes:Snipers should not have hip-fire-grip.
