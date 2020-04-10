@@ -1,25 +1,27 @@
 title:The Captain's Trashlist
 
 //  PERK REFERENCE
+//  280464955   Firmly Planted
 //  957782887   Snapshot Sights
 //  4082225868  Swashbuckler
 //  1546637391  Vorpal Weapon
 
 
 // ALL GUNS
-//note:PvE perk does not synergize with PvP perk.
+//notes:PvE perk does not synergize with PvP perk.
 dimwishlist:item=-1&perks=2869569095#notes:Field Prep is a junk perk.
 dimwishlist:item=-1&perks=1774574192#notes:Osmosis is exceedingly situational.
 
 
 // FUSION RIFLES
-//note:PvE perk does not synergize with PvP perk.
+//notes:PvE perk does not synergize with PvP perk.
 dimwishlist:item=-9&perks=1890422124#notes:Fusion Rifles do not benefit from Tap the Trigger.
 
 // HAND CANNONS
-//note:PvE perk does not synergize with PvP perk.
+//notes:PvE perk does not synergize with PvP perk.
+dimwishlist:item=-6&perks=280464955#notes:Hand Cannons do not meaningfully benefit from the Firmly Planted perk.
 dimwishlist:item=-6&perks=957782887,4082225868
 
 // SNIPERS
-//note:PvE perk does not synergize with PvP perk.
+//notes:PvE perk does not synergize with PvP perk.
 dimwishlist:item=-10&perks=1866048759#notes:Snipers do not benefit from hip-fire-grip.
