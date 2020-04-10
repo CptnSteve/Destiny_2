@@ -6,3 +6,6 @@ dimwishlist:item=--69420&perks=2869569095#notes:Field Prep is a junk perk.
 // SNIPERS
 dimwishlist:item=4261726982&perks=1866048759#notes:Rapid-fire snipers are good.
 dimwishlist:item=-10&perks=1866048759#notes:Snipers should not have hip-fire-grip.
+
+// FUSION RIFLES
+dimwishlist:item=-9&perks=1890422124#notes:Fusion Rifles should not have Tap the Trigger.
