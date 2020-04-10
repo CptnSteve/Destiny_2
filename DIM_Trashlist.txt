@@ -1,0 +1,5 @@
+title:The Captain's Trashlist
+
+dimwishlist:item=-2252206363&perks=1866048759
+dimwishlist:item=-1912493438&perks=2846385770#Scout Rifles with rangefinder
+dimwishlist:item=-1912493438#All scout rifles
