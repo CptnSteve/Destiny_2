@@ -1,7 +1,4 @@
 title:The Captain's Trashlist
 
-dimwishlist:item=-2252206363&perks=1866048759#notes:Snipers with hip-fire-grip
-dimwishlist:item=-8&perks=2846385770#notes:Scout Rifles with rangefinder
-// dimwishlist:item=-8#notes:All scout rifles
-dimwishlist:item=-2957367743#notes:Toil and Trouble and Puke
-dimwishlist:item=-9#notes:Fusion Rifles are bad
+dimwishlist:item=-10&perks=1866048759#notes:Snipers should not have hip-fire-grip.
+
