@@ -2,6 +2,8 @@ title:The Captain's Trashlist
 
 //  PERK REFERENCE
 //  280464955   Firmly Planted
+//  2869569095  Field Prep
+//  1774574192  Osmosis
 //  957782887   Snapshot Sights
 //  4082225868  Swashbuckler
 //  1890422124  Tap the Trigger
@@ -10,7 +12,7 @@ title:The Captain's Trashlist
 
 // ALL GUNS
 //notes:PvE perk does not synergize with PvP perk.
-dimwishlist:item=-1&perks=2869569095#notes:Field Prep is a junk perk.
+dimwishlist:item=-1&perks=280464955#notes:Firmly Planted is a junk perk.
 dimwishlist:item=-1&perks=1774574192#notes:Osmosis is exceedingly situational.
 
 
@@ -23,6 +25,14 @@ dimwishlist:item=-9&perks=1890422124#notes:Fusion Rifles do not benefit from Tap
 dimwishlist:item=-6&perks=280464955#notes:Hand Cannons do not meaningfully benefit from the Firmly Planted perk.
 dimwishlist:item=-6&perks=957782887,4082225868
 
+// PULSE RIFLES
+//notes:PvE perk does not synergize with PvP perk.
+dimwishlist:item=-7&perks=280464955#notes:Pulse Rifles do not meaningfully benefit from the Firmly Planted perk.
+
+// SCOUT RIFLES
+//notes:PvE perk does not synergize with PvP perk.
+dimwishlist:item=-8&perks=280464955#notes:Scout Rifles do not meaningfully benefit from the Firmly Planted perk.
+
 // SMGS
 //notes:PvE perk does not synergize with PvP perk.
 dimwishlist:item=-55&perks=1890422124#notes:Tap the Trigger does not synergize with typical SMG usage.
@@ -30,3 +40,4 @@ dimwishlist:item=-55&perks=1890422124#notes:Tap the Trigger does not synergize w
 // SNIPERS
 //notes:PvE perk does not synergize with PvP perk.
 dimwishlist:item=-10&perks=1866048759#notes:Snipers do not benefit from hip-fire-grip.
+dimwishlist:item=-10&perks=280464955#notes:Sniper Rifles do not meaningfully benefit from the Firmly Planted perk.
