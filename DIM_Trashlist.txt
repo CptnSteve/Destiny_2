@@ -19,7 +19,6 @@ title:The Captain's Trashlist
 
 // ALL GUNS
 //notes:PvE perk does not synergize with PvP perk.
-dimwishlist:item=-1&perks=280464955#notes:Firmly Planted is a junk perk.
 dimwishlist:item=-1&perks=1774574192#notes:Osmosis is exceedingly situational.
 
 
