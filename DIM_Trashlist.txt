@@ -9,6 +9,13 @@ title:The Captain's Trashlist
 //  1890422124  Tap the Trigger
 //  1546637391  Vorpal Weapon
 
+//  ARCHETYPE REFERENCE (Perk Hashes)
+//  1294026524  Hand Cannon, Adaptive Frame
+//  3468089894  Hand Cannon, Aggressive Frame
+//  1458010786  Hand Cannon, Lightweight Frame
+//  1636108362  Sidearm, Precision Frame
+//  1458010786  Submachine Gun, Lightweight Frame
+
 
 // ALL GUNS
 //notes:PvE perk does not synergize with PvP perk.
